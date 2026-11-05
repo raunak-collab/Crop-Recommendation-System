@@ -7,7 +7,7 @@ The system uses a Random Forest Classifier trained on agricultural data to predi
 
 ## 🚀 Live Demo
 
-Coming Soon
+https://crop-recommendation-system12.streamlit.app/
 
 ## 📌 Project Overview
 
